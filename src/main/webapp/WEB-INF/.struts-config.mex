@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlowViewLayout Version="1.2">
+  <StrutsActivity path="/loginAction.do" location="349,664" dimension="280,84" />
+    <AutomaticBendpoints>
+      <AbsolutePoint location="146,84" />
+      <AbsolutePoint location="146,184" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+</FlowViewLayout>
+
